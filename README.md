@@ -2,7 +2,7 @@
 
 `phd student in ai @ cuhk-shenzhen` · `mars v fellow, cambridge ai safety hub` · `ex-linguist`
 
-tensors and optimizers · tokenization symmetries · unlearning that isn't · evaluations that say what they measure
+tensors and optimizers · tokenization · unlearning · evaluations
 
 **→ [xenomirant.github.io](https://xenomirant.github.io)** · [cv](https://xenomirant.github.io/CV.pdf) · [now](https://xenomirant.github.io/now/)
 
@@ -25,5 +25,3 @@ tensors and optimizers · tokenization symmetries · unlearning that isn't · ev
 **elsewhere**
 
 [lesswrong](https://www.lesswrong.com/users/xenomirant) · [telegram](https://t.me/pseudorandom_search) · [hugging face](https://huggingface.co/xenomirant) · [orcid](https://orcid.org/0000-0003-1899-4405) · [linkedin](https://www.linkedin.com/in/xenomirant/) · xenomirant &lt;at&gt; gmail &lt;dot&gt; com
-
-<sub>random notes from random places.</sub>
