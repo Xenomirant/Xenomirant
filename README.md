@@ -11,7 +11,7 @@ tensors and optimizers · tokenization · unlearning · evaluations
 **papers**
 
 - *Pay Attention to Attention Distribution: A New Local Lipschitz Bound for Transformers* — ECCV 2026 · [arxiv](https://arxiv.org/abs/2507.07814)
-- *Tensorion: A Tensor-Aware Generalization of the Muon Optimizer* — ICML 2026 workshop · [arxiv](https://arxiv.org/abs/2606.25975)
+- *Tensorion: A Tensor-Aware Generalization of the Muon Optimizer* — NeurIPS 2026 · [arxiv](https://arxiv.org/abs/2606.25975)
 - *FiMMIA: Scaling Semantic Perturbation-Based Membership Inference Across Modalities* — EACL 2026 · [paper](https://aclanthology.org/2026.eacl-demo.11/) · [code](https://github.com/ai-forever/data_leakage_detect)
 - *Fast Differentiable SVD on GPU via Polar Decomposition* — preprint · [arxiv](https://arxiv.org/abs/2609.32505) · [code](https://github.com/fallnlove/cans_svd)
 - *Shrink the Longest: Improving Latent Space Isotropy with Simplicial Geometry* — AIST 2024 · [arxiv](https://arxiv.org/abs/2501.05502) · [code](https://github.com/Xenomirant/Shrink-the-longest)
