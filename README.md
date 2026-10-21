@@ -2,7 +2,7 @@
 
 `phd student in ai @ cuhk-shenzhen` · `mars v fellow, cambridge ai safety hub` · `ex-linguist`
 
-tensors and optimizers · tokenization · unlearning · evaluations
+tensors and optimizers · tokenization · evaluations
 
 **→ [xenomirant.github.io](https://xenomirant.github.io)** · [cv](https://xenomirant.github.io/CV.pdf) · [now](https://xenomirant.github.io/now/)
 
